@@ -1,0 +1,23 @@
+{
+  "name": "web-mid",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cizawells/samy.git"
+  },
+  "author": "Samy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cizawells/samy/issues"
+  },
+  "homepage": "https://github.com/Cizawells/samy#readme"
+}
